@@ -1,8 +1,8 @@
 # GAWS_LOCAL
 GAMLSS Akaike Weights Algorithm Instructions for Running on Local Machine
 
-This quick guide will help people looking to reproduce results as described in this working paper:
-https://www.researchgate.net/publication/338866907_Detecting_Anomalous_Time_Series_by_GAMLSS-Akaike-Weights-Scoring?_sg=MEG1nT-Zofhq3h7VQ78CxArG5ImY1PEd5pPaD5c5FGUqNIKkPaPqVeIEhwOXrtGrcVE43NgiBEGW9hJJpKt07yqTYUQkf4Ww9ri9ROsQ.X3tu9FulttOyMuKgDimMYkAcXQ7-oR2I5V2kFAmFOwmgqB_vBylKJvtpx8fSU_j4zczCBmLPMEKPR2cjW_FGUg
+This quick guide will help people looking to reproduce results as described in this working paper:  
+[Detecting Anomalous Time Series by GAMLSS-Akaike-Weights-Scoring](https://www.researchgate.net/publication/338866907_Detecting_Anomalous_Time_Series_by_GAMLSS-Akaike-Weights-Scoring)
 
 --- Important Notes:
 -code was tested running each script in R studio in Windows environment. Suggest running R under this environment
